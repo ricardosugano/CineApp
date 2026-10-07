@@ -1,7 +1,7 @@
 # CineApp
 
-**Nome:** SEU NOME AQUI
-**RA:** SEU RA AQUI
+**Nome:** RICARDO NOBUO SUGANO
+**RA:** 2991392513008
 
 ## Descrição
 
