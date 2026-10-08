@@ -18,4 +18,7 @@ Depois é só abrir no Expo Go pelo QR Code ou em um emulador.
 
 ## Capturas de tela
 
-(adicionar os prints aqui)
+Tela Inicial
+<img width="1890" height="866" alt="image" src="https://github.com/user-attachments/assets/c6804a52-9b84-4b22-94c7-931424f81f1f" />
+
+
