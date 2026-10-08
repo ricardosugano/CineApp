@@ -21,4 +21,9 @@ Depois é só abrir no Expo Go pelo QR Code ou em um emulador.
 Tela Inicial
 <img width="1890" height="866" alt="image" src="https://github.com/user-attachments/assets/c6804a52-9b84-4b22-94c7-931424f81f1f" />
 
+Tela Catálogo
+<img width="1892" height="740" alt="image" src="https://github.com/user-attachments/assets/45de1cbd-3daa-4e8d-bbf2-69d3127ee5aa" />
+
+<img width="1890" height="807" alt="image" src="https://github.com/user-attachments/assets/a165a4d6-e5ec-46a3-b59b-d160cc9f52f8" />
+
 
